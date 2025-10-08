@@ -1,2 +1,0 @@
-# LSSM
-Laser Scanning Stereomicroscopy
